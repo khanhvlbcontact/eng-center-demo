@@ -1,0 +1,5 @@
+node_modules
+dist
+server/*.db*
+*.mp4
+.claude
